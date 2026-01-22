@@ -1,18 +1,7 @@
-# 💫 Sobre Mí:
-¡Hola!👋 Soy Juan, un apasionado Desarrollador Web con una trayectoria emocionante y llena de descubrimientos. Mi interés por la tecnología se despertó mientras estudiaba Medicina a los 22 años. Pronto me di cuenta de que mi verdadera pasión residía en el desarrollo web.
+Full-Stack Developer with a strong focus on Cloud technologies (AWS & GCP), with over 2 years of experience building and deploying scalable web applications in software companies and freelance projects.
 
-A lo largo del tiempo, he acumulado experiencia en maquetación web, particularmente con WordPress, trabajando en equipos de desarrollo colaborativos. Esta experiencia me ha permitido confirmar y cultivar mi pasión por el Desarrollo Web, impulsándome a adquirir conocimientos más avanzados y modernos en el área.
+I specialize in end-to-end development, designing RESTful APIs with Node.js / NestJS and building modern user interfaces with React.js and Tailwind CSS. I have hands-on experience working with relational and NoSQL databases, third-party integrations, and automated deployments in cloud environments.
 
-# 🌱 Mi objetivo:
-Aplicar mis experiencias, emociones y habilidades para crecer y desenvolverme plenamente en el mundo del desarrollo web. Aspiro a ofrecer servicios de calidad mientras continúo aprendiendo y mejorando mis habilidades cada día.
+My cloud experience includes working with AWS and Google Cloud Platform, leveraging serverless, container-based, and managed services, with a strong focus on security, scalability, CI/CD, and automation. I have worked with AWS services such as Lambda, Rekognition, ECS, API Gateway, S3, RDS, Cognito, IAM, and messaging services, as well as GCP services like Cloud Run, Cloud SQL, Pub/Sub, VPC, and IAM.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-00AFA1?style=for-the-badge&logo=sequelize&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-# 📫 Contáctame:
-¿Interesado en discutir posibles colaboraciones o proyectos? No dudes en contactarme:
-
-Correo electrónico: millanj159951@gmail.com
-
-## 🌐 Redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-millan-abb74224a/)
+I’m particularly interested in cloud-native architectures, automation, and building reliable, maintainable systems that deliver real business value.
